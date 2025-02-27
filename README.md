@@ -1,1 +1,1 @@
-# Execicio_Seg_Aula
+# Exercicio_Seg_Aula
